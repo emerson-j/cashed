@@ -1,1 +1,3 @@
 ## Cashed
+
+A Laravel app.
